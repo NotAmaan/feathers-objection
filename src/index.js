@@ -16,7 +16,8 @@ const OPERATORS = {
   $lte: '<=',
   $gt: '>',
   $gte: '>=',
-  $like: 'like'
+  $like: 'like',
+  $ilike: 'ilike'
 }
 
 /**
